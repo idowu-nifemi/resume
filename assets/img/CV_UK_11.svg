@@ -1,0 +1,1199 @@
+<svg id="svgRoot" version="1.1" baseProfile="Full" width="595px" height="842px" viewBox="0 0 595 842" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cs="svg" xml:space="preserve">
+<defs>
+</defs>
+<style type="text/css">
+<![CDATA[
+@font-face { font-style:normal; font-weight:normal; font-family:fnt2; src:url(data:font/otf;base64,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) format("opentype"); }
+@font-face { font-style:normal; font-weight:normal; font-family:fnt1; src:url(data:font/otf;base64,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) format("opentype"); }
+@font-face { font-style:normal; font-weight:normal; font-family:fnt0; src:url(data:font/otf;base64,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) format("opentype"); }
+.ps02 { stroke:#0086DE;fill:none; }
+.ps03 { stroke:none;fill:#000000; }
+.ps04 { stroke:none;fill:#0086DE; }
+.ps05 { stroke:none;fill:#221F1F; }
+.ps07 { stroke:none;fill:#221F1F;fill-rule:nonzero; }
+.ps06 { stroke:none;fill:#979797;fill-rule:nonzero; }
+.ps01 { stroke:none;fill:#FFFFFF;fill-rule:nonzero; }
+.ps00 { stroke:none;fill:none; }
+.ps10 { stroke-miterlimit:4; }
+.ps22 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt0;font-style:normal;font-weight:normal;font-size:11px; }
+.ps20 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt0;font-style:normal;font-weight:normal;font-size:25px; }
+.ps21 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt0;font-style:normal;font-weight:normal;font-size:34px; }
+.ps23 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:11px; }
+.ps24 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt2;font-style:normal;font-weight:normal;font-size:11px; }
+]]>
+</style>
+<clipPath id="clp1" clip-rule="nonzero">
+<rect x="0" y="0" width="595" height="842" />
+</clipPath>
+<g clip-path="url(#clp1)" transform="matrix(1 0 0 -1 -0 842)">
+<g id="q1">
+<g id="xfrm2" transform="matrix(1.3423 0 0 1.3423 0 32)">
+<clipPath id="clp2" clip-rule="nonzero">
+<rect x="0" y="0" width="446.3" height="579.6" />
+</clipPath>
+<g id="frm3" clip-path="url(#clp2)">
+<g id="q4">
+<g id="xfrm5" transform="matrix(0.74458 0 0 -0.74458 0 579.60351)">
+<g id="q6">
+<clipPath id="clp3" clip-rule="nonzero">
+<path d="M0 0 L599 0 L599 777.63 L0 777.63 Z" />
+</clipPath>
+<g clip-path="url(#clp3)">
+<g id="q7" class="ps00">
+<path d="M0 0 L599 0 L599 777.63 L0 777.63 Z" class="ps01" />
+</g>
+</g>
+</g>
+<g id="q8">
+<clipPath id="clp4" clip-rule="nonzero">
+<path d="M0 0 L595 0 L595 757 L0 757 Z" />
+</clipPath>
+<g clip-path="url(#clp4)">
+<g id="q9" class="ps00">
+<path d="M0 0 L595 0 L595 757 L0 757 Z" class="ps01" />
+</g>
+</g>
+</g>
+<g id="q10">
+<clipPath id="clp5" clip-rule="nonzero">
+<path d="M102 4.9997 L156 4.9997 L156 58.999 L102 58.999 Z" />
+</clipPath>
+<g clip-path="url(#clp5)">
+<g id="xfrm11" transform="matrix(0.75 0 0 0.75 102 5)">
+<g id="q12" class="ps00">
+<path d="M70.667 36.003 C70.667 55.148 55.145 70.67 36 70.67 C16.855 70.67 1.3328 55.148 1.3328 36.003 C1.3328 16.858 16.855 1.3356 36 1.3356 C55.145 1.3356 70.667 16.858 70.667 36.003" class="ps01" />
+</g>
+<g id="q13" class="ps00">
+<path d="M70.667 36.003 C70.667 55.148 55.145 70.67 36 70.67 C16.855 70.67 1.3328 55.148 1.3328 36.003 C1.3328 16.858 16.855 1.3356 36 1.3356 C55.145 1.3356 70.667 16.858 70.667 36.003" class="ps02 ps10" />
+</g>
+<g id="xfrm14" transform="matrix(1.33333 0 0 1.33333 16.55 17.33333)">
+<g id="q15" class="ps00">
+<text transform="matrix(1 0 0 1 0 23)"><tspan x="0,12.5" y="-0" class="ps03 ps20">JS</tspan>
+</text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="q16">
+<clipPath id="clp6" clip-rule="nonzero">
+<path d="M0 0 L599 0 L599 777.63 L0 777.63 Z" />
+</clipPath>
+<g clip-path="url(#clp6)">
+<g id="q17" class="ps00">
+<clipPath id="clp7" clip-rule="nonzero">
+<path d="M167 -1.002 L292 -1.002 L292 44.997 L167 44.997 Z" />
+</clipPath>
+<g clip-path="url(#clp7)">
+<g id="q18" class="ps00">
+<text transform="matrix(1 0 0 1 172 34)"><tspan x="0,17,35.904,52.904,69.904,77.452,94.452" y="-0" class="ps04 ps21">Jessica</tspan>
+</text>
+</g>
+</g>
+</g>
+<g id="q19" class="ps00">
+<clipPath id="clp8" clip-rule="nonzero">
+<path d="M289 -1.002 L388 -1.002 L388 44.997 L289 44.997 Z" />
+</clipPath>
+<g clip-path="url(#clp8)">
+<g id="q20" class="ps00">
+<text transform="matrix(1 0 0 1 294.375 34)"><tspan x="0" y="-0" class="ps04 ps21" xml:space="preserve">Smith</tspan></text>
+</g>
+</g>
+</g>
+<g id="q21" class="ps00">
+<clipPath id="clp9" clip-rule="nonzero">
+<path d="M167 40.999 L252 40.999 L252 62.997 L167 62.997 Z" />
+</clipPath>
+<g clip-path="url(#clp9)">
+<g id="q22" class="ps00">
+<text transform="matrix(1 0 0 1 172 55.5)"><tspan x="0" y="-0" class="ps05 ps22" xml:space="preserve">020 7946 0677</tspan></text>
+</g>
+</g>
+</g>
+<g id="q23" class="ps00">
+<clipPath id="clp10" clip-rule="nonzero">
+<path d="M240 40.999 L258 40.999 L258 62.997 L240 62.997 Z" />
+</clipPath>
+<g clip-path="url(#clp10)">
+<g id="q24" class="ps00">
+<text transform="matrix(1 0 0 1 245.2375 55.5)"><tspan xml:space="preserve" x="0" y="-0" class="ps05 ps22"> |</tspan></text>
+</g>
+</g>
+</g>
+<g id="q25" class="ps00">
+<clipPath id="clp11" clip-rule="nonzero">
+<path d="M249 40.999 L273 40.999 L273 62.997 L249 62.997 Z" />
+</clipPath>
+<g clip-path="url(#clp11)">
+<g id="q26" class="ps00">
+<text transform="matrix(1 0 0 1 254.10001 55.5)"><tspan x="0" y="-0" class="ps05 ps23" xml:space="preserve">E: </tspan></text>
+</g>
+</g>
+</g>
+<g id="q27" class="ps00">
+<clipPath id="clp12" clip-rule="nonzero">
+<path d="M263 40.999 L365 40.999 L365 62.997 L263 62.997 Z" />
+</clipPath>
+<g clip-path="url(#clp12)">
+<g id="q28" class="ps00">
+<text transform="matrix(1 0 0 1 268.10001 55.5)"><tspan x="0,2.442,7.942,17.105" y="-0" class="ps05 ps22" xml:space="preserve">jsmith@gmail.com</tspan></text>
+</g>
+</g>
+</g>
+<g id="q29" class="ps00">
+<clipPath id="clp13" clip-rule="nonzero">
+<path d="M167 57 L263 57 L263 78.998 L167 78.998 Z" />
+</clipPath>
+<g clip-path="url(#clp13)">
+<g id="q30" class="ps00">
+<text transform="matrix(1 0 0 1 172 71.5)"><tspan x="0,6.116" y="-0" class="ps05 ps22" xml:space="preserve">London, England </tspan></text>
+</g>
+</g>
+</g>
+<g id="q31" class="ps00">
+<clipPath id="clp14" clip-rule="nonzero">
+<path d="M253 57 L269 57 L269 78.998 L253 78.998 Z" />
+</clipPath>
+<g clip-path="url(#clp14)">
+<g id="q32" class="ps00">
+<text transform="matrix(1 0 0 1 258.07501 71.5)"><tspan x="0" y="-0" class="ps05 ps22" xml:space="preserve">, </tspan></text>
+</g>
+</g>
+</g>
+<g id="q33" class="ps00">
+<clipPath id="clp15" clip-rule="nonzero">
+<path d="M259 57 L316 57 L316 78.998 L259 78.998 Z" />
+</clipPath>
+<g clip-path="url(#clp15)">
+<g id="q34" class="ps00">
+<text transform="matrix(1 0 0 1 264.125 71.5)"><tspan x="0,10.373,16.489" y="-0" class="ps05 ps22" xml:space="preserve">W1T 1JY</tspan></text>
+</g>
+</g>
+</g>
+<g id="q35" class="ps00">
+<clipPath id="clp16" clip-rule="nonzero">
+<path d="M172 91.001 L173 91.001 L173 165 L172 165 Z" />
+</clipPath>
+<g clip-path="url(#clp16)">
+<g id="q36" class="ps00">
+<path d="M172 91.001 L173 91.001 L173 165 L172 165 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q37" class="ps00">
+<clipPath id="clp17" clip-rule="nonzero">
+<path d="M65.001 88.001 L163 88.001 L163 110 L65.001 110 Z" />
+</clipPath>
+<g clip-path="url(#clp17)">
+<g id="q38" class="ps00">
+<text transform="matrix(1 0 0 1 70.2 102.5)"><tspan x="0" y="-0" class="ps04 ps23" xml:space="preserve">PROFESSIONAL</tspan></text>
+</g>
+</g>
+</g>
+<g id="q39" class="ps00">
+<clipPath id="clp18" clip-rule="nonzero">
+<path d="M94.999 104 L163 104 L163 126 L94.999 126 Z" />
+</clipPath>
+<g clip-path="url(#clp18)">
+<g id="q40" class="ps00">
+<text transform="matrix(1 0 0 1 100.5625 118.5)"><tspan x="0" y="-0" class="ps04 ps23" xml:space="preserve">SUMMARY</tspan></text>
+</g>
+</g>
+</g>
+<g id="q41" class="ps00">
+<clipPath id="clp19" clip-rule="nonzero">
+<path d="M172 91.001 L173 91.001 L173 165 L172 165 Z" />
+</clipPath>
+<g clip-path="url(#clp19)">
+<g id="q42" class="ps00">
+<path d="M172 91.001 L173 91.001 L173 165 L172 165 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q43" class="ps00">
+<clipPath id="clp20" clip-rule="nonzero">
+<path d="M182 88.001 L563 88.001 L563 110 L182 110 Z" />
+</clipPath>
+<g clip-path="url(#clp20)">
+<g id="q44" class="ps00">
+<text transform="matrix(1 0 0 1 187 102.5)"><tspan x="0,7.942" y="-0" class="ps05 ps22" xml:space="preserve">Driven Sales Associate focused on achieving excellent sales results through</tspan></text>
+</g>
+</g>
+</g>
+<g id="q45" class="ps00">
+<clipPath id="clp21" clip-rule="nonzero">
+<path d="M182 104 L551 104 L551 126 L182 126 Z" />
+</clipPath>
+<g clip-path="url(#clp21)">
+<g id="q46" class="ps00">
+<text transform="matrix(1 0 0 1 187 118.5)"><tspan x="0" y="-0" class="ps05 ps22" xml:space="preserve">impeccable customer service. Training staff to an equally high standard to</tspan></text>
+</g>
+</g>
+</g>
+<g id="q47" class="ps00">
+<clipPath id="clp22" clip-rule="nonzero">
+<path d="M182 120 L538 120 L538 141.99 L182 141.99 Z" />
+</clipPath>
+<g clip-path="url(#clp22)">
+<g id="q48" class="ps00">
+<text transform="matrix(1 0 0 1 187 134.5)"><tspan x="0,6.116" y="-0" class="ps05 ps22" xml:space="preserve">optimise customer experience and maximise profits. Proven success in</tspan></text>
+</g>
+</g>
+</g>
+<g id="q49" class="ps00">
+<clipPath id="clp23" clip-rule="nonzero">
+<path d="M182 136 L419 136 L419 158 L182 158 Z" />
+</clipPath>
+<g clip-path="url(#clp23)">
+<g id="q50" class="ps00">
+<text transform="matrix(1 0 0 1 187 150.5)"><tspan x="0" y="-0" class="ps05 ps22" xml:space="preserve">constantly exceeding personal and team KPIs.</tspan></text>
+</g>
+</g>
+</g>
+<g id="q51" class="ps00">
+<clipPath id="clp24" clip-rule="nonzero">
+<path d="M172 165 L173 165 L173 599 L172 599 Z" />
+</clipPath>
+<g clip-path="url(#clp24)">
+<g id="q52" class="ps00">
+<path d="M172 165 L173 165 L173 599 L172 599 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q53" class="ps00">
+<clipPath id="clp25" clip-rule="nonzero">
+<path d="M65.001 162 L163 162 L163 184 L65.001 184 Z" />
+</clipPath>
+<g clip-path="url(#clp25)">
+<g id="q54" class="ps00">
+<text transform="matrix(1 0 0 1 70.875 176.5)"><tspan x="0" y="-0" class="ps04 ps23" xml:space="preserve">WORK HISTORY</tspan></text>
+</g>
+</g>
+</g>
+<g id="q55" class="ps00">
+<clipPath id="clp26" clip-rule="nonzero">
+<path d="M172 165 L173 165 L173 303 L172 303 Z" />
+</clipPath>
+<g clip-path="url(#clp26)">
+<g id="q56" class="ps00">
+<path d="M172 165 L173 165 L173 303 L172 303 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q57" class="ps00">
+<clipPath id="clp27" clip-rule="nonzero">
+<path d="M452 162 L504 162 L504 184 L452 184 Z" />
+</clipPath>
+<g clip-path="url(#clp27)">
+<g id="q58" class="ps00">
+<text transform="matrix(1 0 0 1 457.35001 176.5)"><tspan x="0,6.116,12.232" y="-0" class="ps05 ps24" xml:space="preserve">02/2017</tspan></text>
+</g>
+</g>
+</g>
+<g id="q59" class="ps00">
+<clipPath id="clp28" clip-rule="nonzero">
+<path d="M492 162 L514 162 L514 184 L492 184 Z" />
+</clipPath>
+<g clip-path="url(#clp28)">
+<g id="q60" class="ps00">
+<text transform="matrix(1 0 0 1 497.07501 176.5)"><tspan xml:space="preserve" x="0" y="-0" class="ps05 ps24"> – </tspan></text>
+</g>
+</g>
+</g>
+<g id="q61" class="ps00">
+<clipPath id="clp29" clip-rule="nonzero">
+<path d="M504 162 L569 162 L569 184 L504 184 Z" />
+</clipPath>
+<g clip-path="url(#clp29)">
+<g id="q62" class="ps00">
+<text transform="matrix(1 0 0 1 509.1875 176.5)"><tspan x="0" y="-0" class="ps05 ps24" xml:space="preserve">CURRENT</tspan></text>
+</g>
+</g>
+</g>
+<g id="q63" class="ps00">
+<clipPath id="clp30" clip-rule="nonzero">
+<path d="M182 162 L297 162 L297 184 L182 184 Z" />
+</clipPath>
+<g clip-path="url(#clp30)">
+<g id="q64" class="ps00">
+<text transform="matrix(1 0 0 1 187 176.5)"><tspan x="0" y="-0" class="ps04 ps23" xml:space="preserve">SALES ASSOCIATE</tspan></text>
+</g>
+</g>
+</g>
+<g id="q65" class="ps00">
+<clipPath id="clp31" clip-rule="nonzero">
+<path d="M182 178 L215 178 L215 200 L182 200 Z" />
+</clipPath>
+<g clip-path="url(#clp31)">
+<g id="q66" class="ps00">
+<text transform="matrix(1 0 0 1 187 192.5)"><tspan x="0,3.047,9.163,15.279" y="-0" class="ps05 ps23">Ikea</tspan>
+</text>
+</g>
+</g>
+</g>
+<g id="q67" class="ps00">
+<clipPath id="clp32" clip-rule="nonzero">
+<path d="M203 178 L221 178 L221 200 L203 200 Z" />
+</clipPath>
+<g clip-path="url(#clp32)">
+<g id="q68" class="ps00">
+<text transform="matrix(1 0 0 1 208.3875 192.5)"><tspan xml:space="preserve" x="0" y="-0" class="ps05 ps23"> |</tspan></text>
+</g>
+</g>
+</g>
+<g id="q69" class="ps00">
+<clipPath id="clp33" clip-rule="nonzero">
+<path d="M212 178 L286 178 L286 200 L212 200 Z" />
+</clipPath>
+<g clip-path="url(#clp33)">
+<g id="q70" class="ps00">
+<text transform="matrix(1 0 0 1 217.46249 192.5)"><tspan x="0" y="-0" class="ps05 ps23" xml:space="preserve">London, UK</tspan></text>
+</g>
+</g>
+</g>
+<g id="q71" class="ps00">
+<clipPath id="clp34" clip-rule="nonzero">
+<path d="M208 194 L551 194 L551 216 L208 216 Z" />
+</clipPath>
+<g clip-path="url(#clp34)">
+<g id="q72" class="ps00">
+<text transform="matrix(1 0 0 1 213 208.5)"><tspan x="0,3.047" y="-0" class="ps05 ps22" xml:space="preserve">Implemented customer service training programme, improving guest</tspan></text>
+</g>
+</g>
+</g>
+<g id="q73" class="ps00">
+<clipPath id="clp35" clip-rule="nonzero">
+<path d="M208 210 L426 210 L426 232 L208 232 Z" />
+</clipPath>
+<g clip-path="url(#clp35)">
+<g id="q74" class="ps00">
+<text transform="matrix(1 0 0 1 213 224.5)"><tspan x="0" y="-0" class="ps05 ps22" xml:space="preserve">satisfaction score by 50% within 6 months.</tspan></text>
+</g>
+</g>
+</g>
+<g id="q75" class="ps00">
+<path d="M197.5 203.25 L197.5 203.25 C198.6 203.25 199.5 204.15 199.5 205.25 C199.5 206.36 198.6 207.25 197.5 207.25 C196.4 207.25 195.5 206.36 195.5 205.25 C195.5 204.15 196.4 203.25 197.5 203.25 Z" class="ps07" />
+</g>
+<g id="q76" class="ps00">
+<clipPath id="clp36" clip-rule="nonzero">
+<path d="M208 226 L551 226 L551 248 L208 248 Z" />
+</clipPath>
+<g clip-path="url(#clp36)">
+<g id="q77" class="ps00">
+<text transform="matrix(1 0 0 1 213 240.5)"><tspan x="0" y="-0" class="ps05 ps22" xml:space="preserve">Developed new shop floor layout to improve customer flow, reducing</tspan></text>
+</g>
+</g>
+</g>
+<g id="q78" class="ps00">
+<clipPath id="clp37" clip-rule="nonzero">
+<path d="M208 242 L424 242 L424 264 L208 264 Z" />
+</clipPath>
+<g clip-path="url(#clp37)">
+<g id="q79" class="ps00">
+<text transform="matrix(1 0 0 1 213 256.5)"><tspan x="0" y="-0" class="ps05 ps22" xml:space="preserve">waiting times by 10 minutes per customer.</tspan></text>
+</g>
+</g>
+</g>
+<g id="q80" class="ps00">
+<path d="M197.5 235.25 L197.5 235.25 C198.6 235.25 199.5 236.14 199.5 237.25 C199.5 238.35 198.6 239.25 197.5 239.25 C196.4 239.25 195.5 238.35 195.5 237.25 C195.5 236.14 196.4 235.25 197.5 235.25 Z" class="ps07" />
+</g>
+<g id="q81" class="ps00">
+<clipPath id="clp38" clip-rule="nonzero">
+<path d="M208 258 L566 258 L566 280 L208 280 Z" />
+</clipPath>
+<g clip-path="url(#clp38)">
+<g id="q82" class="ps00">
+<text transform="matrix(1 0 0 1 213 272.5)"><tspan x="0" y="-0" class="ps05 ps22" xml:space="preserve">Managed store capacity to ensure consistent compliance with Covid-19</tspan></text>
+</g>
+</g>
+</g>
+<g id="q83" class="ps00">
+<clipPath id="clp39" clip-rule="nonzero">
+<path d="M208 274 L276 274 L276 296 L208 296 Z" />
+</clipPath>
+<g clip-path="url(#clp39)">
+<g id="q84" class="ps00">
+<text transform="matrix(1 0 0 1 213 288.5)"><tspan x="0,3.663,9.779,15.895,22.011,24.453,30.569,33.616,36.058,42.174,48.29,53.79" y="-0" class="ps05 ps22">regulations.</tspan>
+</text>
+</g>
+</g>
+</g>
+<g id="q85" class="ps00">
+<path d="M197.5 267.25 L197.5 267.25 C198.6 267.25 199.5 268.15 199.5 269.25 C199.5 270.35 198.6 271.25 197.5 271.25 C196.4 271.25 195.5 270.35 195.5 269.25 C195.5 268.15 196.4 267.25 197.5 267.25 Z" class="ps07" />
+</g>
+<g id="q86" class="ps00">
+<clipPath id="clp40" clip-rule="nonzero">
+<path d="M172 303 L173 303 L173 451 L172 451 Z" />
+</clipPath>
+<g clip-path="url(#clp40)">
+<g id="q87" class="ps00">
+<path d="M172 303 L173 303 L173 451 L172 451 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q88" class="ps00">
+<clipPath id="clp41" clip-rule="nonzero">
+<path d="M466 310 L518 310 L518 332 L466 332 Z" />
+</clipPath>
+<g clip-path="url(#clp41)">
+<g id="q89" class="ps00">
+<text transform="matrix(1 0 0 1 471.4375 324.5)"><tspan x="0,6.116,12.232" y="-0" class="ps05 ps24" xml:space="preserve">03/2015</tspan></text>
+</g>
+</g>
+</g>
+<g id="q90" class="ps00">
+<clipPath id="clp42" clip-rule="nonzero">
+<path d="M506 310 L528 310 L528 332 L506 332 Z" />
+</clipPath>
+<g clip-path="url(#clp42)">
+<g id="q91" class="ps00">
+<text transform="matrix(1 0 0 1 511.16251 324.5)"><tspan xml:space="preserve" x="0" y="-0" class="ps05 ps24"> – </tspan></text>
+</g>
+</g>
+</g>
+<g id="q92" class="ps00">
+<clipPath id="clp43" clip-rule="nonzero">
+<path d="M518 310 L569 310 L569 332 L518 332 Z" />
+</clipPath>
+<g clip-path="url(#clp43)">
+<g id="q93" class="ps00">
+<text transform="matrix(1 0 0 1 523.27502 324.5)"><tspan x="0,6.116,12.232" y="-0" class="ps05 ps24" xml:space="preserve">01/2017</tspan></text>
+</g>
+</g>
+</g>
+<g id="q94" class="ps00">
+<clipPath id="clp44" clip-rule="nonzero">
+<path d="M182 310 L328 310 L328 332 L182 332 Z" />
+</clipPath>
+<g clip-path="url(#clp44)">
+<g id="q95" class="ps00">
+<text transform="matrix(1 0 0 1 187 324.5)"><tspan x="0,6.116,14.058" y="-0" class="ps04 ps23" xml:space="preserve">JUNIOR SALES ADVISOR</tspan></text>
+</g>
+</g>
+</g>
+<g id="q96" class="ps00">
+<clipPath id="clp45" clip-rule="nonzero">
+<path d="M182 326 L236 326 L236 348 L182 348 Z" />
+</clipPath>
+<g clip-path="url(#clp45)">
+<g id="q97" class="ps00">
+<text transform="matrix(1 0 0 1 187 340.5)"><tspan x="0" y="-0" class="ps05 ps23" xml:space="preserve">Walmart</tspan></text>
+</g>
+</g>
+</g>
+<g id="q98" class="ps00">
+<clipPath id="clp46" clip-rule="nonzero">
+<path d="M224 326 L243 326 L243 348 L224 348 Z" />
+</clipPath>
+<g clip-path="url(#clp46)">
+<g id="q99" class="ps00">
+<text transform="matrix(1 0 0 1 229.96249 340.5)"><tspan xml:space="preserve" x="0" y="-0" class="ps05 ps23"> |</tspan></text>
+</g>
+</g>
+</g>
+<g id="q100" class="ps00">
+<clipPath id="clp47" clip-rule="nonzero">
+<path d="M234 326 L308 326 L308 348 L234 348 Z" />
+</clipPath>
+<g clip-path="url(#clp47)">
+<g id="q101" class="ps00">
+<text transform="matrix(1 0 0 1 239.03751 340.5)"><tspan x="0" y="-0" class="ps05 ps23" xml:space="preserve">London, UK</tspan></text>
+</g>
+</g>
+</g>
+<g id="q102" class="ps00">
+<clipPath id="clp48" clip-rule="nonzero">
+<path d="M208 342 L569 342 L569 364 L208 364 Z" />
+</clipPath>
+<g clip-path="url(#clp48)">
+<g id="q103" class="ps00">
+<text transform="matrix(1 0 0 1 213 356.5)"><tspan x="0,7.326" y="-0" class="ps05 ps22" xml:space="preserve">Exceeded sales targets for newly launched swimwear collection by 40%</tspan></text>
+</g>
+</g>
+</g>
+<g id="q104" class="ps00">
+<clipPath id="clp49" clip-rule="nonzero">
+<path d="M208 358 L525 358 L525 380 L208 380 Z" />
+</clipPath>
+<g clip-path="url(#clp49)">
+<g id="q105" class="ps00">
+<text transform="matrix(1 0 0 1 213 372.5)"><tspan x="0,3.047" y="-0" class="ps05 ps22" xml:space="preserve">through strategic product placement and visual merchandising.</tspan></text>
+</g>
+</g>
+</g>
+<g id="q106" class="ps00">
+<path d="M197.5 351.25 L197.5 351.25 C198.6 351.25 199.5 352.14 199.5 353.25 C199.5 354.35 198.6 355.25 197.5 355.25 C196.4 355.25 195.5 354.35 195.5 353.25 C195.5 352.14 196.4 351.25 197.5 351.25 Z" class="ps07" />
+</g>
+<g id="q107" class="ps00">
+<clipPath id="clp50" clip-rule="nonzero">
+<path d="M208 374 L548 374 L548 396 L208 396 Z" />
+</clipPath>
+<g clip-path="url(#clp50)">
+<g id="q108" class="ps00">
+<text transform="matrix(1 0 0 1 213 388.5)"><tspan x="0,6.71,12.826" y="-0" class="ps05 ps22" xml:space="preserve">Fostered and maintained excellent customer relationships, boosting</tspan></text>
+</g>
+</g>
+</g>
+<g id="q109" class="ps00">
+<clipPath id="clp51" clip-rule="nonzero">
+<path d="M208 390 L482 390 L482 412 L208 412 Z" />
+</clipPath>
+<g clip-path="url(#clp51)">
+<g id="q110" class="ps00">
+<text transform="matrix(1 0 0 1 213 404.5)"><tspan x="0" y="-0" class="ps05 ps22" xml:space="preserve">client retention rate from 70% to 90% within 8 months.</tspan></text>
+</g>
+</g>
+</g>
+<g id="q111" class="ps00">
+<path d="M197.5 383.25 L197.5 383.25 C198.6 383.25 199.5 384.15 199.5 385.25 C199.5 386.35 198.6 387.25 197.5 387.25 C196.4 387.25 195.5 386.35 195.5 385.25 C195.5 384.15 196.4 383.25 197.5 383.25 Z" class="ps07" />
+</g>
+<g id="q112" class="ps00">
+<clipPath id="clp52" clip-rule="nonzero">
+<path d="M208 406 L565 406 L565 428 L208 428 Z" />
+</clipPath>
+<g clip-path="url(#clp52)">
+<g id="q113" class="ps00">
+<text transform="matrix(1 0 0 1 213 420.5)"><tspan x="0,3.047" y="-0" class="ps05 ps22" xml:space="preserve">Interacted and engaged with customers, providing guidance and expert</tspan></text>
+</g>
+</g>
+</g>
+<g id="q114" class="ps00">
+<clipPath id="clp53" clip-rule="nonzero">
+<path d="M208 422 L405 422 L405 444 L208 444 Z" />
+</clipPath>
+<g clip-path="url(#clp53)">
+<g id="q115" class="ps00">
+<text transform="matrix(1 0 0 1 213 436.5)"><tspan x="0,6.116" y="-0" class="ps05 ps22" xml:space="preserve">advice to influence purchase decision.</tspan></text>
+</g>
+</g>
+</g>
+<g id="q116" class="ps00">
+<path d="M197.5 415.25 L197.5 415.25 C198.6 415.25 199.5 416.15 199.5 417.25 C199.5 418.35 198.6 419.25 197.5 419.25 C196.4 419.25 195.5 418.35 195.5 417.25 C195.5 416.15 196.4 415.25 197.5 415.25 Z" class="ps07" />
+</g>
+<g id="q117" class="ps00">
+<clipPath id="clp54" clip-rule="nonzero">
+<path d="M172 451 L173 451 L173 599 L172 599 Z" />
+</clipPath>
+<g clip-path="url(#clp54)">
+<g id="q118" class="ps00">
+<path d="M172 451 L173 451 L173 599 L172 599 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q119" class="ps00">
+<clipPath id="clp55" clip-rule="nonzero">
+<path d="M466 458 L518 458 L518 479.99 L466 479.99 Z" />
+</clipPath>
+<g clip-path="url(#clp55)">
+<g id="q120" class="ps00">
+<text transform="matrix(1 0 0 1 471.4375 472.5)"><tspan x="0,6.116,12.232" y="-0" class="ps05 ps24" xml:space="preserve">07/2012</tspan></text>
+</g>
+</g>
+</g>
+<g id="q121" class="ps00">
+<clipPath id="clp56" clip-rule="nonzero">
+<path d="M506 458 L528 458 L528 479.99 L506 479.99 Z" />
+</clipPath>
+<g clip-path="url(#clp56)">
+<g id="q122" class="ps00">
+<text transform="matrix(1 0 0 1 511.16251 472.5)"><tspan xml:space="preserve" x="0" y="-0" class="ps05 ps24"> – </tspan></text>
+</g>
+</g>
+</g>
+<g id="q123" class="ps00">
+<clipPath id="clp57" clip-rule="nonzero">
+<path d="M518 458 L569 458 L569 479.99 L518 479.99 Z" />
+</clipPath>
+<g clip-path="url(#clp57)">
+<g id="q124" class="ps00">
+<text transform="matrix(1 0 0 1 523.27502 472.5)"><tspan x="0,6.116,12.232" y="-0" class="ps05 ps24" xml:space="preserve">02/2015</tspan></text>
+</g>
+</g>
+</g>
+<g id="q125" class="ps00">
+<clipPath id="clp58" clip-rule="nonzero">
+<path d="M182 458 L295 458 L295 479.99 L182 479.99 Z" />
+</clipPath>
+<g clip-path="url(#clp58)">
+<g id="q126" class="ps00">
+<text transform="matrix(1 0 0 1 187 472.5)"><tspan x="0" y="-0" class="ps04 ps23" xml:space="preserve">SALES ASSISTANT</tspan></text>
+</g>
+</g>
+</g>
+<g id="q127" class="ps00">
+<clipPath id="clp59" clip-rule="nonzero">
+<path d="M182 474 L247 474 L247 496 L182 496 Z" />
+</clipPath>
+<g clip-path="url(#clp59)">
+<g id="q128" class="ps00">
+<text transform="matrix(1 0 0 1 187 488.5)"><tspan x="0,7.942" y="-0" class="ps05 ps23" xml:space="preserve">Decathlon</tspan></text>
+</g>
+</g>
+</g>
+<g id="q129" class="ps00">
+<clipPath id="clp60" clip-rule="nonzero">
+<path d="M235 474 L253 474 L253 496 L235 496 Z" />
+</clipPath>
+<g clip-path="url(#clp60)">
+<g id="q130" class="ps00">
+<text transform="matrix(1 0 0 1 240.175 488.5)"><tspan xml:space="preserve" x="0" y="-0" class="ps05 ps23"> |</tspan></text>
+</g>
+</g>
+</g>
+<g id="q131" class="ps00">
+<clipPath id="clp61" clip-rule="nonzero">
+<path d="M244 474 L318 474 L318 496 L244 496 Z" />
+</clipPath>
+<g clip-path="url(#clp61)">
+<g id="q132" class="ps00">
+<text transform="matrix(1 0 0 1 249.25 488.5)"><tspan x="0" y="-0" class="ps05 ps23" xml:space="preserve">London, UK</tspan></text>
+</g>
+</g>
+</g>
+<g id="q133" class="ps00">
+<clipPath id="clp62" clip-rule="nonzero">
+<path d="M208 490 L541 490 L541 512 L208 512 Z" />
+</clipPath>
+<g clip-path="url(#clp62)">
+<g id="q134" class="ps00">
+<text transform="matrix(1 0 0 1 213 504.5)"><tspan x="0,7.326" y="-0" class="ps05 ps22" xml:space="preserve">Supported Store Manager in implementing sales programmes that</tspan></text>
+</g>
+</g>
+</g>
+<g id="q135" class="ps00">
+<clipPath id="clp63" clip-rule="nonzero">
+<path d="M208 506 L377 506 L377 528 L208 528 Z" />
+</clipPath>
+<g clip-path="url(#clp63)">
+<g id="q136" class="ps00">
+<text transform="matrix(1 0 0 1 213 520.5)"><tspan x="0" y="-0" class="ps05 ps22" xml:space="preserve">resulted in 40% revenue growth.</tspan></text>
+</g>
+</g>
+</g>
+<g id="q137" class="ps00">
+<path d="M197.5 499.25 L197.5 499.25 C198.6 499.25 199.5 500.15 199.5 501.25 C199.5 502.35 198.6 503.25 197.5 503.25 C196.4 503.25 195.5 502.35 195.5 501.25 C195.5 500.15 196.4 499.25 197.5 499.25 Z" class="ps07" />
+</g>
+<g id="q138" class="ps00">
+<clipPath id="clp64" clip-rule="nonzero">
+<path d="M208 522 L538 522 L538 544 L208 544 Z" />
+</clipPath>
+<g clip-path="url(#clp64)">
+<g id="q139" class="ps00">
+<text transform="matrix(1 0 0 1 213 536.5)"><tspan x="0,8.547" y="-0" class="ps05 ps22" xml:space="preserve">Operated store POS system to process daily cash and credit card</tspan></text>
+</g>
+</g>
+</g>
+<g id="q140" class="ps00">
+<clipPath id="clp65" clip-rule="nonzero">
+<path d="M208 538 L382 538 L382 559.99 L208 559.99 Z" />
+</clipPath>
+<g clip-path="url(#clp65)">
+<g id="q141" class="ps00">
+<text transform="matrix(1 0 0 1 213 552.5)"><tspan x="0,3.047" y="-0" class="ps05 ps22" xml:space="preserve">transactions with 100% accuracy.</tspan></text>
+</g>
+</g>
+</g>
+<g id="q142" class="ps00">
+<path d="M197.5 531.25 L197.5 531.25 C198.6 531.25 199.5 532.15 199.5 533.25 C199.5 534.35 198.6 535.25 197.5 535.25 C196.4 535.25 195.5 534.35 195.5 533.25 C195.5 532.15 196.4 531.25 197.5 531.25 Z" class="ps07" />
+</g>
+<g id="q143" class="ps00">
+<clipPath id="clp66" clip-rule="nonzero">
+<path d="M208 554 L567 554 L567 576 L208 576 Z" />
+</clipPath>
+<g clip-path="url(#clp66)">
+<g id="q144" class="ps00">
+<text transform="matrix(1 0 0 1 213 568.5)"><tspan x="0,7.326" y="-0" class="ps05 ps22" xml:space="preserve">Stocked, replenished and organised shelves to ensure consistent levels</tspan></text>
+</g>
+</g>
+</g>
+<g id="q145" class="ps00">
+<clipPath id="clp67" clip-rule="nonzero">
+<path d="M208 570 L324 570 L324 592 L208 592 Z" />
+</clipPath>
+<g clip-path="url(#clp67)">
+<g id="q146" class="ps00">
+<text transform="matrix(1 0 0 1 213 584.5)"><tspan x="0,6.116" y="-0" class="ps05 ps22" xml:space="preserve">of product availability.</tspan></text>
+</g>
+</g>
+</g>
+<g id="q147" class="ps00">
+<path d="M197.5 563.25 L197.5 563.25 C198.6 563.25 199.5 564.14 199.5 565.25 C199.5 566.35 198.6 567.25 197.5 567.25 C196.4 567.25 195.5 566.35 195.5 565.25 C195.5 564.14 196.4 563.25 197.5 563.25 Z" class="ps07" />
+</g>
+<g id="q148" class="ps00">
+<clipPath id="clp68" clip-rule="nonzero">
+<path d="M172 599 L173 599 L173 689 L172 689 Z" />
+</clipPath>
+<g clip-path="url(#clp68)">
+<g id="q149" class="ps00">
+<path d="M172 599 L173 599 L173 689 L172 689 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q150" class="ps00">
+<clipPath id="clp69" clip-rule="nonzero">
+<path d="M112 596 L163 596 L163 618 L112 618 Z" />
+</clipPath>
+<g clip-path="url(#clp69)">
+<g id="q151" class="ps00">
+<text transform="matrix(1 0 0 1 117.875 610.5)"><tspan x="0" y="-0" class="ps04 ps23" xml:space="preserve">SKILLS</tspan></text>
+</g>
+</g>
+</g>
+<g id="q152" class="ps00">
+<clipPath id="clp70" clip-rule="nonzero">
+<path d="M172 599 L173 599 L173 689 L172 689 Z" />
+</clipPath>
+<g clip-path="url(#clp70)">
+<g id="q153" class="ps00">
+<path d="M172 599 L173 599 L173 689 L172 689 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q154" class="ps00">
+<clipPath id="clp71" clip-rule="nonzero">
+<path d="M208 596 L309 596 L309 618 L208 618 Z" />
+</clipPath>
+<g clip-path="url(#clp71)">
+<g id="q155" class="ps00">
+<text transform="matrix(1 0 0 1 213 610.5)"><tspan x="0,7.942,14.058,20.174" y="-0" class="ps05 ps22" xml:space="preserve">Consultative sales</tspan></text>
+</g>
+</g>
+</g>
+<g id="q156" class="ps00">
+<path d="M197.5 605.25 L197.5 605.25 C198.6 605.25 199.5 606.15 199.5 607.25 C199.5 608.35 198.6 609.25 197.5 609.25 C196.4 609.25 195.5 608.35 195.5 607.25 C195.5 606.15 196.4 605.25 197.5 605.25 Z" class="ps07" />
+</g>
+<g id="q157" class="ps00">
+<clipPath id="clp72" clip-rule="nonzero">
+<path d="M208 612 L348 612 L348 634 L208 634 Z" />
+</clipPath>
+<g clip-path="url(#clp72)">
+<g id="q158" class="ps00">
+<text transform="matrix(1 0 0 1 213 626.5)"><tspan x="0,7.942" y="-0" class="ps05 ps22" xml:space="preserve">Retail operating standards</tspan></text>
+</g>
+</g>
+</g>
+<g id="q159" class="ps00">
+<path d="M197.5 621.25 L197.5 621.25 C198.6 621.25 199.5 622.15 199.5 623.25 C199.5 624.36 198.6 625.25 197.5 625.25 C196.4 625.25 195.5 624.36 195.5 623.25 C195.5 622.15 196.4 621.25 197.5 621.25 Z" class="ps07" />
+</g>
+<g id="q160" class="ps00">
+<clipPath id="clp73" clip-rule="nonzero">
+<path d="M208 628 L330 628 L330 650 L208 650 Z" />
+</clipPath>
+<g clip-path="url(#clp73)">
+<g id="q161" class="ps00">
+<text transform="matrix(1 0 0 1 213 642.5)"><tspan x="0,7.326,10.989,17.105" y="-0" class="ps05 ps22" xml:space="preserve">Product demonstration</tspan></text>
+</g>
+</g>
+</g>
+<g id="q162" class="ps00">
+<path d="M197.5 637.25 L197.5 637.25 C198.6 637.25 199.5 638.15 199.5 639.25 C199.5 640.35 198.6 641.25 197.5 641.25 C196.4 641.25 195.5 640.35 195.5 639.25 C195.5 638.15 196.4 637.25 197.5 637.25 Z" class="ps07" />
+</g>
+<g id="q163" class="ps00">
+<clipPath id="clp74" clip-rule="nonzero">
+<path d="M208 644 L324 644 L324 666 L208 666 Z" />
+</clipPath>
+<g clip-path="url(#clp74)">
+<g id="q164" class="ps00">
+<text transform="matrix(1 0 0 1 213 658.5)"><tspan x="0" y="-0" class="ps05 ps22" xml:space="preserve">Visual merchandising</tspan></text>
+</g>
+</g>
+</g>
+<g id="q165" class="ps00">
+<clipPath id="clp75" clip-rule="nonzero">
+<path d="M208 660 L273 660 L273 682 L208 682 Z" />
+</clipPath>
+<g clip-path="url(#clp75)">
+<g id="q166" class="ps00">
+<text transform="matrix(1 0 0 1 213 674.5)"><tspan x="0,3.047,9.163,14.663,20.779,26.895,29.337" y="-0" class="ps05 ps22" xml:space="preserve">techniques</tspan></text>
+</g>
+</g>
+</g>
+<g id="q167" class="ps00">
+<path d="M197.5 653.25 L197.5 653.25 C198.6 653.25 199.5 654.14 199.5 655.25 C199.5 656.35 198.6 657.25 197.5 657.25 C196.4 657.25 195.5 656.35 195.5 655.25 C195.5 654.14 196.4 653.25 197.5 653.25 Z" class="ps07" />
+</g>
+<g id="q168" class="ps00">
+<clipPath id="clp76" clip-rule="nonzero">
+<path d="M385 596 L466 596 L466 618 L385 618 Z" />
+</clipPath>
+<g clip-path="url(#clp76)">
+<g id="q169" class="ps00">
+<text transform="matrix(1 0 0 1 390.67499 610.5)"><tspan x="0,7.326,15.873,23.199,26.246,33.572,39.072" y="-0" class="ps05 ps22" xml:space="preserve">POS Systems</tspan></text>
+</g>
+</g>
+</g>
+<g id="q170" class="ps00">
+<path d="M375.17 605.25 L375.17 605.25 C376.28 605.25 377.17 606.15 377.17 607.25 C377.17 608.35 376.28 609.25 375.17 609.25 C374.07 609.25 373.18 608.35 373.18 607.25 C373.18 606.15 374.07 605.25 375.17 605.25 Z" class="ps07" />
+</g>
+<g id="q171" class="ps00">
+<clipPath id="clp77" clip-rule="nonzero">
+<path d="M385 612 L540 612 L540 634 L385 634 Z" />
+</clipPath>
+<g clip-path="url(#clp77)">
+<g id="q172" class="ps00">
+<text transform="matrix(1 0 0 1 390.67499 626.5)"><tspan x="0,7.942" y="-0" class="ps05 ps22" xml:space="preserve">Retail inventory management</tspan></text>
+</g>
+</g>
+</g>
+<g id="q173" class="ps00">
+<path d="M375.17 621.25 L375.17 621.25 C376.28 621.25 377.17 622.15 377.17 623.25 C377.17 624.36 376.28 625.25 375.17 625.25 C374.07 625.25 373.18 624.36 373.18 623.25 C373.18 622.15 374.07 621.25 375.17 621.25 Z" class="ps07" />
+</g>
+<g id="q174" class="ps00">
+<clipPath id="clp78" clip-rule="nonzero">
+<path d="M385 628 L522 628 L522 650 L385 650 Z" />
+</clipPath>
+<g clip-path="url(#clp78)">
+<g id="q175" class="ps00">
+<text transform="matrix(1 0 0 1 390.67499 642.5)"><tspan x="0,7.942" y="-0" class="ps05 ps22" xml:space="preserve">Customer service training</tspan></text>
+</g>
+</g>
+</g>
+<g id="q176" class="ps00">
+<path d="M375.17 637.25 L375.17 637.25 C376.28 637.25 377.17 638.15 377.17 639.25 C377.17 640.35 376.28 641.25 375.17 641.25 C374.07 641.25 373.18 640.35 373.18 639.25 C373.18 638.15 374.07 637.25 375.17 637.25 Z" class="ps07" />
+</g>
+<g id="q177" class="ps00">
+<clipPath id="clp79" clip-rule="nonzero">
+<path d="M385 644 L516 644 L516 666 L385 666 Z" />
+</clipPath>
+<g clip-path="url(#clp79)">
+<g id="q178" class="ps00">
+<text transform="matrix(1 0 0 1 390.67499 658.5)"><tspan x="0,7.942" y="-0" class="ps05 ps22" xml:space="preserve">Covid-19 retail protocols</tspan></text>
+</g>
+</g>
+</g>
+<g id="q179" class="ps00">
+<path d="M375.17 653.25 L375.17 653.25 C376.28 653.25 377.17 654.14 377.17 655.25 C377.17 656.35 376.28 657.25 375.17 657.25 C374.07 657.25 373.18 656.35 373.18 655.25 C373.18 654.14 374.07 653.25 375.17 653.25 Z" class="ps07" />
+</g>
+<g id="q180" class="ps00">
+<clipPath id="clp80" clip-rule="nonzero">
+<path d="M172 689 L173 689 L173 731 L172 731 Z" />
+</clipPath>
+<g clip-path="url(#clp80)">
+<g id="q181" class="ps00">
+<path d="M172 689 L173 689 L173 731 L172 731 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q182" class="ps00">
+<clipPath id="clp81" clip-rule="nonzero">
+<path d="M86.999 686 L163 686 L163 708 L86.999 708 Z" />
+</clipPath>
+<g clip-path="url(#clp81)">
+<g id="q183" class="ps00">
+<text transform="matrix(1 0 0 1 92.4125 700.5)"><tspan x="0" y="-0" class="ps04 ps23" xml:space="preserve">EDUCATION</tspan></text>
+</g>
+</g>
+</g>
+<g id="q184" class="ps00">
+<clipPath id="clp82" clip-rule="nonzero">
+<path d="M172 689 L173 689 L173 731 L172 731 Z" />
+</clipPath>
+<g clip-path="url(#clp82)">
+<g id="q185" class="ps00">
+<path d="M172 689 L173 689 L173 731 L172 731 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q186" class="ps00">
+<clipPath id="clp83" clip-rule="nonzero">
+<path d="M367 686 L404 686 L404 708 L367 708 Z" />
+</clipPath>
+<g clip-path="url(#clp83)">
+<g id="q187" class="ps00">
+<text transform="matrix(1 0 0 1 372.60001 700.5)"><tspan x="0,6.116" y="-0" class="ps05 ps24" xml:space="preserve">2006</tspan></text>
+</g>
+</g>
+</g>
+<g id="q188" class="ps00">
+<clipPath id="clp84" clip-rule="nonzero">
+<path d="M182 686 L359 686 L359 708 L182 708 Z" />
+</clipPath>
+<g clip-path="url(#clp84)">
+<g id="q189" class="ps00">
+<text transform="matrix(1 0 0 1 187 700.5)"><tspan x="0,7.942" y="-0" class="ps05 ps23" xml:space="preserve">Diploma in Sales and Marketing</tspan></text>
+</g>
+</g>
+</g>
+<g id="q190" class="ps00">
+<clipPath id="clp85" clip-rule="nonzero">
+<path d="M182 702 L366 702 L366 724 L182 724 Z" />
+</clipPath>
+<g clip-path="url(#clp85)">
+<g id="q191" class="ps00">
+<text transform="matrix(1 0 0 1 187 716.5)"><tspan x="0,9.163,15.279,18.942" y="-0" class="ps05 ps23" xml:space="preserve">Metropolitan Community College</tspan></text>
+</g>
+</g>
+</g>
+<g id="q192" class="ps00">
+<clipPath id="clp86" clip-rule="nonzero">
+<path d="M354 702 L370 702 L370 724 L354 724 Z" />
+</clipPath>
+<g clip-path="url(#clp86)">
+<g id="q193" class="ps00">
+<text transform="matrix(1 0 0 1 359.21249 716.5)"><tspan x="0" y="-0" class="ps05 ps23" xml:space="preserve">, </tspan></text>
+</g>
+</g>
+</g>
+<g id="q194" class="ps00">
+<clipPath id="clp87" clip-rule="nonzero">
+<path d="M360 702 L404 702 L404 724 L360 724 Z" />
+</clipPath>
+<g clip-path="url(#clp87)">
+<g id="q195" class="ps00">
+<text transform="matrix(1 0 0 1 365.26251 716.5)"><tspan x="0" y="-0" class="ps05 ps23" xml:space="preserve">Leeds</tspan></text>
+</g>
+</g>
+</g>
+<g id="q196" class="ps00">
+<clipPath id="clp88" clip-rule="nonzero">
+<path d="M172 731 L173 731 L173 757 L172 757 Z" />
+</clipPath>
+<g clip-path="url(#clp88)">
+<g id="q197" class="ps00">
+<path d="M172 731 L173 731 L173 757 L172 757 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q198" class="ps00">
+<clipPath id="clp89" clip-rule="nonzero">
+<path d="M60.001 728 L163 728 L163 750 L60.001 750 Z" />
+</clipPath>
+<g clip-path="url(#clp89)">
+<g id="q199" class="ps00">
+<text transform="matrix(1 0 0 1 65.525 742.5)"><tspan x="0" y="-0" class="ps04 ps23" xml:space="preserve">CERTIFICATIONS</tspan></text>
+</g>
+</g>
+</g>
+<g id="q200" class="ps00">
+<clipPath id="clp90" clip-rule="nonzero">
+<path d="M172 731 L173 731 L173 757 L172 757 Z" />
+</clipPath>
+<g clip-path="url(#clp90)">
+<g id="q201" class="ps00">
+<path d="M172 731 L173 731 L173 757 L172 757 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q202" class="ps00">
+<clipPath id="clp91" clip-rule="nonzero">
+<path d="M182 728 L355 728 L355 750 L182 750 Z" />
+</clipPath>
+<g clip-path="url(#clp91)">
+<g id="q203" class="ps00">
+<text transform="matrix(1 0 0 1 187 742.5)"><tspan x="0,7.942,14.058" y="-0" class="ps05 ps22" xml:space="preserve">Retail Associate Certificate, 2009</tspan></text>
+</g>
+</g>
+</g>
+<g id="q204" class="ps00">
+<clipPath id="clp92" clip-rule="nonzero">
+<path d="M172 91.001 L173 91.001 L173 103 L172 103 Z" />
+</clipPath>
+<g clip-path="url(#clp92)">
+<g id="q205" class="ps00">
+<path d="M172 91.001 L173 91.001 L173 103 L172 103 Z" class="ps01" />
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="q206">
+<clipPath id="clp93" clip-rule="nonzero">
+<path d="M167 316 L178 316 L178 327 L167 327 Z" />
+</clipPath>
+<g clip-path="url(#clp93)">
+<g id="q207" class="ps00">
+<clipPath id="clp94" clip-rule="nonzero">
+<path d="M172.5 316 L172.5 316 C175.53 316 178 318.46 178 321.5 C178 324.54 175.53 327 172.5 327 C169.46 327 167 324.54 167 321.5 C167 318.46 169.46 316 172.5 316 Z" />
+</clipPath>
+<g clip-path="url(#clp94)">
+<g id="q208" class="ps00">
+<path d="M167 316 L178 316 L178 327 L167 327 Z" class="ps01" />
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="q209">
+<clipPath id="clp95" clip-rule="nonzero">
+<path d="M0 0 L599 0 L599 777.63 L0 777.63 Z" />
+</clipPath>
+<g clip-path="url(#clp95)">
+<g id="q210" class="ps00">
+<path d="M172.5 316 L172.5 316 C175.53 316 178 318.46 178 321.5 C178 324.54 175.53 327 172.5 327 C169.46 327 167 324.54 167 321.5 C167 318.46 169.46 316 172.5 316 ZM172.5 317 L172.5 317 C170.02 317 168 319.01 168 321.5 C168 323.98 170.02 326 172.5 326 C174.98 326 177 323.98 177 321.5 C177 319.01 174.98 317 172.5 317 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q211">
+<clipPath id="clp96" clip-rule="nonzero">
+<path d="M167 464 L178 464 L178 475 L167 475 Z" />
+</clipPath>
+<g clip-path="url(#clp96)">
+<g id="q212" class="ps00">
+<clipPath id="clp97" clip-rule="nonzero">
+<path d="M172.5 464 L172.5 464 C175.53 464 178 466.46 178 469.5 C178 472.53 175.53 475 172.5 475 C169.46 475 167 472.53 167 469.5 C167 466.46 169.46 464 172.5 464 Z" />
+</clipPath>
+<g clip-path="url(#clp97)">
+<g id="q213" class="ps00">
+<path d="M167 464 L178 464 L178 475 L167 475 Z" class="ps01" />
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="q214">
+<clipPath id="clp98" clip-rule="nonzero">
+<path d="M0 0 L599 0 L599 777.63 L0 777.63 Z" />
+</clipPath>
+<g clip-path="url(#clp98)">
+<g id="q215" class="ps00">
+<path d="M172.5 464 L172.5 464 C175.53 464 178 466.46 178 469.5 C178 472.53 175.53 475 172.5 475 C169.46 475 167 472.53 167 469.5 C167 466.46 169.46 464 172.5 464 ZM172.5 465 L172.5 465 C170.02 465 168 467.02 168 469.5 C168 471.98 170.02 474 172.5 474 C174.98 474 177 471.98 177 469.5 C177 467.02 174.98 465 172.5 465 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q216">
+<clipPath id="clp99" clip-rule="nonzero">
+<path d="M167 94.002 L178 94.002 L178 105 L167 105 Z" />
+</clipPath>
+<g clip-path="url(#clp99)">
+<g id="q217" class="ps00">
+<clipPath id="clp100" clip-rule="nonzero">
+<path d="M172.5 94.002 L172.5 94.002 C175.53 94.002 178 96.463 178 99.5 C178 102.54 175.53 105 172.5 105 C169.46 105 167 102.54 167 99.5 C167 96.463 169.46 94.002 172.5 94.002 Z" />
+</clipPath>
+<g clip-path="url(#clp100)">
+<g id="q218" class="ps00">
+<path d="M167 94.002 L178 94.002 L178 105 L167 105 Z" class="ps01" />
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="q219">
+<clipPath id="clp101" clip-rule="nonzero">
+<path d="M0 0 L599 0 L599 777.63 L0 777.63 Z" />
+</clipPath>
+<g clip-path="url(#clp101)">
+<g id="q220" class="ps00">
+<path d="M172.5 94.002 L172.5 94.002 C175.53 94.002 178 96.463 178 99.5 C178 102.54 175.53 105 172.5 105 C169.46 105 167 102.54 167 99.5 C167 96.463 169.46 94.002 172.5 94.002 ZM172.5 94.999 L172.5 94.999 C170.02 94.999 168 97.019 168 99.5 C168 101.98 170.02 104 172.5 104 C174.98 104 177 101.98 177 99.5 C177 97.019 174.98 94.999 172.5 94.999 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q221">
+<clipPath id="clp102" clip-rule="nonzero">
+<path d="M167 168 L178 168 L178 179 L167 179 Z" />
+</clipPath>
+<g clip-path="url(#clp102)">
+<g id="q222" class="ps00">
+<clipPath id="clp103" clip-rule="nonzero">
+<path d="M172.5 168 L172.5 168 C175.53 168 178 170.47 178 173.5 C178 176.54 175.53 179 172.5 179 C169.46 179 167 176.54 167 173.5 C167 170.47 169.46 168 172.5 168 Z" />
+</clipPath>
+<g clip-path="url(#clp103)">
+<g id="q223" class="ps00">
+<path d="M167 168 L178 168 L178 179 L167 179 Z" class="ps01" />
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="q224">
+<clipPath id="clp104" clip-rule="nonzero">
+<path d="M0 0 L599 0 L599 777.63 L0 777.63 Z" />
+</clipPath>
+<g clip-path="url(#clp104)">
+<g id="q225" class="ps00">
+<path d="M172.5 168 L172.5 168 C175.53 168 178 170.47 178 173.5 C178 176.54 175.53 179 172.5 179 C169.46 179 167 176.54 167 173.5 C167 170.47 169.46 168 172.5 168 ZM172.5 169 L172.5 169 C170.02 169 168 171.02 168 173.5 C168 175.99 170.02 178 172.5 178 C174.98 178 177 175.99 177 173.5 C177 171.02 174.98 169 172.5 169 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q226">
+<clipPath id="clp105" clip-rule="nonzero">
+<path d="M167 602 L178 602 L178 613 L167 613 Z" />
+</clipPath>
+<g clip-path="url(#clp105)">
+<g id="q227" class="ps00">
+<clipPath id="clp106" clip-rule="nonzero">
+<path d="M172.5 602 L172.5 602 C175.53 602 178 604.46 178 607.5 C178 610.54 175.53 613 172.5 613 C169.46 613 167 610.54 167 607.5 C167 604.46 169.46 602 172.5 602 Z" />
+</clipPath>
+<g clip-path="url(#clp106)">
+<g id="q228" class="ps00">
+<path d="M167 602 L178 602 L178 613 L167 613 Z" class="ps01" />
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="q229">
+<clipPath id="clp107" clip-rule="nonzero">
+<path d="M0 0 L599 0 L599 777.63 L0 777.63 Z" />
+</clipPath>
+<g clip-path="url(#clp107)">
+<g id="q230" class="ps00">
+<path d="M172.5 602 L172.5 602 C175.53 602 178 604.46 178 607.5 C178 610.54 175.53 613 172.5 613 C169.46 613 167 610.54 167 607.5 C167 604.46 169.46 602 172.5 602 ZM172.5 603 L172.5 603 C170.02 603 168 605.02 168 607.5 C168 609.98 170.02 612 172.5 612 C174.98 612 177 609.98 177 607.5 C177 605.02 174.98 603 172.5 603 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q231">
+<clipPath id="clp108" clip-rule="nonzero">
+<path d="M167 692 L178 692 L178 703 L167 703 Z" />
+</clipPath>
+<g clip-path="url(#clp108)">
+<g id="q232" class="ps00">
+<clipPath id="clp109" clip-rule="nonzero">
+<path d="M172.5 692 L172.5 692 C175.53 692 178 694.47 178 697.5 C178 700.54 175.53 703 172.5 703 C169.46 703 167 700.54 167 697.5 C167 694.47 169.46 692 172.5 692 Z" />
+</clipPath>
+<g clip-path="url(#clp109)">
+<g id="q233" class="ps00">
+<path d="M167 692 L178 692 L178 703 L167 703 Z" class="ps01" />
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="q234">
+<clipPath id="clp110" clip-rule="nonzero">
+<path d="M0 0 L599 0 L599 777.63 L0 777.63 Z" />
+</clipPath>
+<g clip-path="url(#clp110)">
+<g id="q235" class="ps00">
+<path d="M172.5 692 L172.5 692 C175.53 692 178 694.47 178 697.5 C178 700.54 175.53 703 172.5 703 C169.46 703 167 700.54 167 697.5 C167 694.47 169.46 692 172.5 692 ZM172.5 693 L172.5 693 C170.02 693 168 695.02 168 697.5 C168 699.99 170.02 702 172.5 702 C174.98 702 177 699.99 177 697.5 C177 695.02 174.98 693 172.5 693 Z" class="ps06" />
+</g>
+</g>
+</g>
+<g id="q236">
+<clipPath id="clp111" clip-rule="nonzero">
+<path d="M167 734 L178 734 L178 745 L167 745 Z" />
+</clipPath>
+<g clip-path="url(#clp111)">
+<g id="q237" class="ps00">
+<clipPath id="clp112" clip-rule="nonzero">
+<path d="M172.5 734 L172.5 734 C175.53 734 178 736.46 178 739.5 C178 742.54 175.53 745 172.5 745 C169.46 745 167 742.54 167 739.5 C167 736.46 169.46 734 172.5 734 Z" />
+</clipPath>
+<g clip-path="url(#clp112)">
+<g id="q238" class="ps00">
+<path d="M167 734 L178 734 L178 745 L167 745 Z" class="ps01" />
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="q239">
+<clipPath id="clp113" clip-rule="nonzero">
+<path d="M0 0 L599 0 L599 777.63 L0 777.63 Z" />
+</clipPath>
+<g clip-path="url(#clp113)">
+<g id="q240" class="ps00">
+<path d="M172.5 734 L172.5 734 C175.53 734 178 736.46 178 739.5 C178 742.54 175.53 745 172.5 745 C169.46 745 167 742.54 167 739.5 C167 736.46 169.46 734 172.5 734 ZM172.5 735 L172.5 735 C170.02 735 168 737.01 168 739.5 C168 741.98 170.02 744 172.5 744 C174.98 744 177 741.98 177 739.5 C177 737.01 174.98 735 172.5 735 Z" class="ps06" />
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

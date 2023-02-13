@@ -1,0 +1,73 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.form {
+    margin: 50px auto;
+    width: 300px;
+    padding: 30px 25px;
+    background: white;
+    border-radius: 20px;
+}
+h1.login-title {
+    color: rgb(57, 52, 52);
+    margin: 0px auto 25px;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+}
+.login-input {
+    font-size: 15px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 25px;
+    height: 25px;
+    width: calc(100% - 23px);
+}
+.login-input:focus {
+    border-color:#6e8095;
+    outline: none;
+}
+.login-button {
+    color: #fff;
+    background: #ec4a05;
+    border: 0;
+    outline: 0;
+    width: 90%;
+    height: 30px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+}
+.register-button {
+    color: #fff;
+    background: #072fcd;
+    border: 0;
+    outline: 0;
+    width: 95%;
+    height: 30px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+}
+.link {
+    color: rgb(121, 104, 104);
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 0px;
+
+}
+.link a {
+    color: rgb(114, 104, 104);
+    text-decoration: none;
+}
+.link a:hover{
+    color: rgb(56, 69, 120);
+    text-decoration: none;
+}
+h3 {
+    font-weight: normal;
+    text-align: center;
+}
